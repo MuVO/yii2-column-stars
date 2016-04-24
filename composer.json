@@ -1,0 +1,27 @@
+{
+  "name": "muvo/yii2-column-stars",
+  "type": "yii2-extension",
+  "description": "This is extension for display some values (like rating) as stars",
+  "keywords": [
+    "yii2",
+    "fontawesome",
+    "gridview",
+    "datacolumn"
+  ],
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Vladislav Muschinskikh",
+      "email": "i@unixoid.su"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "yiisoft/yii2": "^2"
+  },
+  "autoload": {
+    "psr-4": {
+      "muvo\\yii2\\widgets": ""
+    }
+  }
+}
