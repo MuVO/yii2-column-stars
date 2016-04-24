@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "muvo\\yii2\\widgets": ""
+      "muvo\\yii2\\widgets\\": ""
     }
   }
 }
