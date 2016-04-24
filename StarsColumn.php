@@ -1,8 +1,8 @@
-<?php namespace muvo\yii2\widgets;
+<?php namespace muvo\yii2\widgets\columns;
 
 use yii\grid\Column;
 
-class RatingColumn extends Column
+class StarsColumn extends Column
 {
     public $header = 'Rating';
     public $attribute;
