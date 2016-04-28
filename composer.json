@@ -1,6 +1,6 @@
 {
   "name": "muvo/yii2-column-stars",
-  "version": "0.1",
+  "version": "2016.04.29.1",
 
   "type": "yii2-extension",
   "description": "This is extension for display some values (like rating) as stars",
@@ -19,12 +19,11 @@
   ],
   "require": {
     "yiisoft/yii2": "^2",
-    "bower-asset/fontawesome": "^4.6",
-    "bower-asset/bootstrap": "^3.3"
+    "rmrevin/yii2-fontawesome": "*",
   },
   "autoload": {
     "psr-4": {
-      "muvo\\yii2\\widgets\\columns\\": ""
+      "muvo\\yii2\\widgets\\": ""
     }
   }
 }
