@@ -1,5 +1,6 @@
 <?php namespace muvo\yii\widgets\columns;
 
+use muvo\yii2\widgets\Stars;
 use yii\grid\DataColumn;
 
 class StarsColumn extends DataColumn
