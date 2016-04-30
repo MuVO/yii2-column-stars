@@ -14,7 +14,7 @@ yii2-column-stars
 		<some column definitions>,
 		[
 			'class' => columns\StarColumn::className(),
-			'value' => 'rating', /* In this example «rating» 
+			'attribute' => 'rating', /* In this example «rating» 
 						attribute contains amount 
 						of stars, which we need
 						to display */
