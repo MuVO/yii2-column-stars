@@ -1,4 +1,4 @@
-<?php namespace muvo\yii2\widgets\columns;
+<?php namespace muvo\yii\widgets\columns;
 
 use yii\grid\DataColumn;
 
