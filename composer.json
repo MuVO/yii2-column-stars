@@ -1,6 +1,6 @@
 {
   "name": "muvo/yii2-column-stars",
-  "version": "2016.04.30.2",
+  "version": "2016.04.30.3",
 
   "type": "yii2-extension",
   "description": "This is extension for display some values (like rating) as stars",
